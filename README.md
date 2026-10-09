@@ -12,7 +12,7 @@
 | Arunabha Mukhopadhyay | 23070122049 |
 | Garvit Tyagi | 23070122094 |
 
-**GitHub Repository:** `<PASTE YOUR GITHUB REPO LINK HERE>`
+**GitHub Repository:** `https://github.com/Arunabha-Mukhopadhyay/Cyber-Security-CA3-Case_Study-Group-9-`
 
 ---
 
